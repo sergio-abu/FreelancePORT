@@ -1,0 +1,18 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+freeport/__pycache__/
+freeport/*/__pycache__/
+freeport/*/*/__pycache__/
+freeport/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
+
+# Local PostgreSQL data
+data/

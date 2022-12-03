@@ -1,0 +1,25 @@
+:root {
+  --color-main: #293d2c;
+  --color-main-light: rgb(159, 184, 163);
+  --color-sub: #216885;
+  --color-sub-light: #337088;
+  --color-sub-lighter: #ffff;
+  --color-text: #353535;
+  --color-gray: #353535;
+  --color-light: #e5e9e5;
+  --color-light-gray: #585656;
+  --color-bg: #6c9171;
+  --color-white: #ffff;
+  --color-white-light: #f3f3f3;
+  --color-success: #359e64;
+  --color-success-bg: #c9e9d5;
+  --color-error: #fc4b0b;
+  --color-error-bg: #b8a3a3;
+  --font-base: 'Poppins', arial, helvetica, 'Segoe UI', roboto, ubuntu, sans-serif;
+  --font-monospace: 'Fira Code', 'Courier New', courier, monospace;
+  --font-regular: 300;
+  --font-medium: 500;
+  --font-bold: 700;
+  --generic-shadow: 1px 1px 5px #00000010;
+  --generic-transition: all 0.3s ease-in-out;
+}
